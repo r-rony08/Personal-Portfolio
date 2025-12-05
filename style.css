@@ -470,8 +470,13 @@ textarea:focus {
         max-width: 100%;
     }
 
+    .hero-image {
+        width: 200px;
+        height: 200px;
+    }
+
     .profile-img {
-        max-width: 180px;
+        max-width: 220px;
     }
 
     .project-list {
